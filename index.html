@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset ="utf-8">
+	<title>d3</title>
+	<script type="text/javascript"  src="js/jquery.js"></script>
+	<script type="text/javascript" 	src="js/d3.v3.min.js"></script>
+	<script type="text/javascript" 	src="js/sc.overlay.js"></script>
+	<script type="text/javascript" 	src="js/sc.serialize.js"></script>
+	<script type="text/javascript" 	src="js/sc.lineChart.js"></script>
+	<script type="text/javascript" 	src="js/sc.circularBarChart.js"></script>
+	<link 	rel="stylesheet" 		type="text/css" href="css/main.css" />
+	<link 	rel="stylesheet" 		type="text/css" href="css/linechart.css" />
+	<link 	rel="stylesheet" 		type="text/css" href="css/circlebarchart.css" />
+</head>
+<body>
+	<div id="lineChart"></div>
+	<div id="circularBarChart"></div>
+	<ul  id="line">		
+		<li id="addLine">Add Total Line</li>
+		<li id="removeLine">Remove Filter Line</li>
+		<li id="removeTotalline">Remove Total Line</li>
+		<li id="removeAllLines">Remove All Lines</li>
+	</ul>
+	<div id="loadgraph">Load Graph</div>
+	<div id="overlay">
+		<img src="img/loading.gif" id="loading" />
+	</div>
+	<div id="tooltip"></div>
+	<script type="text/javascript" 	src="js/main.js"></script>
+</body>
+</html>

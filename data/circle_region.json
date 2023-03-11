@@ -1,0 +1,1441 @@
+{
+    "success": true,
+    "terms": "terms.html",
+    "citation": "citation.html",
+    "cache": false,
+    "projectId": "lsu",
+    "total_execute_time": "0.0549",
+    "totalCount": 130,
+    "results": [{
+            "text": "Abkhazia (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Abkhazia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Alabama (100,408)",
+            "specimenCount": "1408",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Alabama",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Alaska (441)",
+            "specimenCount": "441",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Alaska",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Alberta (268)",
+            "specimenCount": "268",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Alberta",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Amazonas (5)",
+            "specimenCount": "5",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Amazonas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Arizona (457)",
+            "specimenCount": "457",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Arizona",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Arkansas (100,888)",
+            "specimenCount": "1888",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Arkansas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Azuay (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Azuay",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Bagua (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Bagua",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Bahia (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Bahia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Baja California Norte (13)",
+            "specimenCount": "13",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Baja California Norte",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Baja California Sur (9)",
+            "specimenCount": "9",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Baja California Sur",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Bolivar (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Bolivar",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "British Columbia (247)",
+            "specimenCount": "247",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "British Columbia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Cajamarca (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Cajamarca",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "California (100,450)",
+            "specimenCount": "1450",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "California",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Canary Islands (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Canary Islands",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Chiapas (21)",
+            "specimenCount": "21",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Chiapas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Chihuahua (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Chihuahua",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Chimborazo (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Chimborazo",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Colorado (100,130)",
+            "specimenCount": "1130",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Colorado",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Connecticut (172)",
+            "specimenCount": "172",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Connecticut",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Corrientes (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Corrientes",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Delaware (55)",
+            "specimenCount": "55",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Delaware",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Department Durazno (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Department Durazno",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Department Rivera (22)",
+            "specimenCount": "22",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Department Rivera",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Department Rocha (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Department Rocha",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "District of Columbia (54)",
+            "specimenCount": "54",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "District of Columbia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Distrito Federal (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Distrito Federal",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Durango (82)",
+            "specimenCount": "82",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Durango",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Florida (4,976)",
+            "specimenCount": "4976",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Florida",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Galapagos (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Galapagos",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Georgia (100,868)",
+            "specimenCount": "1868",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Georgia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Goias (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Goias",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Guerrero (5)",
+            "specimenCount": "5",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Guerrero",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Hawaii (221)",
+            "specimenCount": "221",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Hawaii",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Hidalgo (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Hidalgo",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Hildago (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Hildago",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Hordaland (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Hordaland",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Huehuetenango (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Huehuetenango",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Idaho (65)",
+            "specimenCount": "65",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Idaho",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Illinois (577)",
+            "specimenCount": "577",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Illinois",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Indiana (223)",
+            "specimenCount": "223",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Indiana",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Iowa (163)",
+            "specimenCount": "163",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Iowa",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Jalisco (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Jalisco",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Kansas (61)",
+            "specimenCount": "61",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Kansas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Kentucky (400)",
+            "specimenCount": "400",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Kentucky",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Krasnodarskiy Kray (7)",
+            "specimenCount": "7",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Krasnodarskiy Kray",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "La Paz (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "La Paz",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "La Vega (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "La Vega",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Los Rios (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Los Rios",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Louisiana (3,787)",
+            "specimenCount": "3787",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Louisiana",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Madeira (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Madeira",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Maine (170)",
+            "specimenCount": "170",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Maine",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Manitoba (62)",
+            "specimenCount": "62",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Manitoba",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Maryland (64)",
+            "specimenCount": "64",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Maryland",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Massachusetts (709)",
+            "specimenCount": "709",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Massachusetts",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Mato Grosso (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Mato Grosso",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Mexico (7)",
+            "specimenCount": "7",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Mexico",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Michigan (706)",
+            "specimenCount": "706",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Michigan",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Michoacan (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Michoacan",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Midtjylland (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Midtjylland",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Minnesota (809)",
+            "specimenCount": "809",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Minnesota",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Mississippi (4,002)",
+            "specimenCount": "4002",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Mississippi",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Missouri (701)",
+            "specimenCount": "701",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Missouri",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Montana (205)",
+            "specimenCount": "205",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Montana",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "N\/A (31)",
+            "specimenCount": "31",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "N\/A",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Napo (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Napo",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Nebraska (306)",
+            "specimenCount": "306",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Nebraska",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Neembucu (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Neembucu",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Nevada (51)",
+            "specimenCount": "51",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Nevada",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New Brunswick (21)",
+            "specimenCount": "21",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New Brunswick",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New Hampshire (110)",
+            "specimenCount": "110",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New Hampshire",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New Jersey (415)",
+            "specimenCount": "415",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New Jersey",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New Mexico (366)",
+            "specimenCount": "366",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New Mexico",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New South Wales (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New South Wales",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "New York (100,419)",
+            "specimenCount": "1419",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "New York",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Newfoundland and Labrador (120)",
+            "specimenCount": "120",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Newfoundland and Labrador",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Normandie (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Normandie",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "North Carolina (919)",
+            "specimenCount": "919",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "North Carolina",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "North Dakota (30)",
+            "specimenCount": "30",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "North Dakota",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Northwest Territories (104)",
+            "specimenCount": "104",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Northwest Territories",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Nova Scotia (36)",
+            "specimenCount": "36",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Nova Scotia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Nuevo Leon (7)",
+            "specimenCount": "7",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Nuevo Leon",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Nunavut (5)",
+            "specimenCount": "5",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Nunavut",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Oaxaca (30)",
+            "specimenCount": "30",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Oaxaca",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Ohio (763)",
+            "specimenCount": "763",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Ohio",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Oklahoma (100,272)",
+            "specimenCount": "1272",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Oklahoma",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Ontario (206)",
+            "specimenCount": "206",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Ontario",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Orange Walk District (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Orange Walk District",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Oregon (522)",
+            "specimenCount": "522",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Oregon",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Ottawa (4)",
+            "specimenCount": "4",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Ottawa",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Para (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Para",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Pennsylvania (327)",
+            "specimenCount": "327",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Pennsylvania",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Peten (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Peten",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Pichincha (2)",
+            "specimenCount": "2",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Pichincha",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Potaro-Siparuni (4)",
+            "specimenCount": "4",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Potaro-Siparuni",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Prince Edward Island (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Prince Edward Island",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Puebla (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Puebla",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Puerto Rico (31)",
+            "specimenCount": "31",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Puerto Rico",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Puntarenas (4)",
+            "specimenCount": "4",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Puntarenas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Pyrenees-Atlantiques (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Pyrenees-Atlantiques",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Quebec (153)",
+            "specimenCount": "153",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Quebec",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Rhode Island (25)",
+            "specimenCount": "25",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Rhode Island",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "San Luis Potosi (11)",
+            "specimenCount": "11",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "San Luis Potosi",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Santader (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Santader",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Sao Paulo (3)",
+            "specimenCount": "3",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Sao Paulo",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Saskatchewan (71)",
+            "specimenCount": "71",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Saskatchewan",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Sonora (9)",
+            "specimenCount": "9",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Sonora",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "South Australia (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "South Australia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "South Carolina (389)",
+            "specimenCount": "389",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "South Carolina",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "South Dakota (344)",
+            "specimenCount": "344",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "South Dakota",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Tamaulipas (102)",
+            "specimenCount": "102",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Tamaulipas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Tasmania (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Tasmania",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Tennessee (953)",
+            "specimenCount": "953",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Tennessee",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Texas (7,545)",
+            "specimenCount": "7545",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Texas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Toledo District (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Toledo District",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Turks and Caicos (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Turks and Caicos",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Upper Austria (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Upper Austria",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Utah (256)",
+            "specimenCount": "256",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Utah",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Varmland (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Varmland",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Veracruz (17)",
+            "specimenCount": "17",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Veracruz",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Vermont (148)",
+            "specimenCount": "148",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Vermont",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Virginia (559)",
+            "specimenCount": "559",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Virginia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Washington (452)",
+            "specimenCount": "452",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Washington",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "West Virginia (482)",
+            "specimenCount": "482",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "West Virginia",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Wisconsin (304)",
+            "specimenCount": "304",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Wisconsin",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Wyoming (100,001)",
+            "specimenCount": "1001",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Wyoming",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Yukon (57)",
+            "specimenCount": "57",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Yukon",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }, {
+            "text": "Zacatecas (100)",
+            "specimenCount": "100",
+            "checked": false,
+            "leaf": false,
+            "nodeApi": "StateProvince",
+            "nodeValue": "Zacatecas",
+            "filter": {
+                "Regions": "",
+                "Country": ""
+            }
+        }
+    ]
+}
